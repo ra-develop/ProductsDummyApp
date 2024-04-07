@@ -1,0 +1,64 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "3:3079301039852264074",
+      "lastPropertyId": "12:3519880189065162246",
+      "name": "HistoryDAO",
+      "properties": [
+        {
+          "id": "1:7080928194333903808",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "5:3663734403069572310",
+          "name": "accessDate",
+          "type": 10
+        },
+        {
+          "id": "11:5472232621797285738",
+          "name": "product",
+          "type": 9
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "3:3079301039852264074",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [
+    5907097390470111495,
+    5281206625485794579
+  ],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    5020667473409113593,
+    6375445886257181297,
+    7032791045634205029,
+    6614617314363156518,
+    4318896228571409593,
+    8320216885514265878,
+    4639631787575359077,
+    2163199647327207176,
+    3516381604502385936,
+    3849626692381357316,
+    1749670205644901030,
+    872779359615216261,
+    2044605496501196304,
+    6723220368325110962,
+    4916224968598961033,
+    5212470861718724261,
+    8516014448381715554,
+    3519880189065162246
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}
