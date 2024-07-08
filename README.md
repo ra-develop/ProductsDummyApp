@@ -28,7 +28,7 @@ The application includes the following modules and packages:
    2. Data interfaces
    3. Business logic interfaces
 4. Data Module
-   1. Local storage на базе ObjectBox
+   1. Local storage on the ObjectBox
       1. DAO model definitions
       2. CRUD implementation
       3. mapping between DAO models and internal data presentation
