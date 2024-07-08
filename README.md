@@ -1,4 +1,4 @@
-# Project to evaluation of qualification for the Android Developer Role
+# Project demonstrating Clean Architecture and modularization in an Android App
 
 This project was developed by using JetPack Compose. Could be used as template project. 
 
