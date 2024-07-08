@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+/data/objectbox-models/default.json.bak
+/.idea/deploymentTargetSelector.xml
+/.idea/other.xml
+/.idea/vcs.xml
